@@ -1,5 +1,6 @@
 Pandas
 Streamlit
-Plotly
+PlotlyExpress
 Numpy
 SQLAlchemy
+
