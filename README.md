@@ -8,31 +8,53 @@ The dashboard provides real-time insights into transactions, users, devices, and
 
 The project aims to be efficient, secure, and user-friendly, offering actionable insights for business strategy.
 
+
 **Technology Stack Used:**
+
 Python
+
 MySQL
+
 Streamlit
+
 SQLAlchemy
+
 Plotly (Geo Visualization, Charts)
+
 Visual Studio Code
 
 **Installation:**
+
 pip install pandas
+
 pip install numpy
+
 pip install os
+
 pip install mysql.connector
+
 pip install streamlit
 
+
 **Import Libraries:**
+
 import pandas as pd
+
 import numpy as np
+
 import json
+
 import mysql.connector
+
 import sqlalchemy
+
 import streamlit as st
+
 import plotly.express as px
 
+
 **Approach:**
+
 1. Data Extraction - Collected PhonePe Pulse datasets (transactions, users, devices, insurance).
 Downloaded JSON files for structured processing.
 
@@ -46,7 +68,9 @@ Downloaded JSON files for structured processing.
 
 6. Visualization - Finally, create a dashboard using Streamlit, incorporating selection and dropdown options. Showcase the output through Geo visualization, bar charts, and a DataFrame table.
 
+
 **Snapshort:**
+
 Home - Transactions:
 
 <img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/2516ad65-cb34-4b76-9970-e3bdc92e54bf" />
