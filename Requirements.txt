@@ -1,6 +1,7 @@
-pandas==2.2.3
-numpy==2.1.3
-plotly==5.24.1
-streamlit==1.45.1
-SQLAlchemy==2.0.39
-mysql-connector-python==9.4.0
+pandas
+numpy
+plotly
+streamlit
+SQLAlchemy
+mysql-connector-python
+
