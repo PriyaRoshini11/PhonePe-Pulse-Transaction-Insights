@@ -1,6 +1,6 @@
-Pandas
-Streamlit
-PlotlyExpress
-Numpy
-SQLAlchemy
-
+pandas
+numpy
+plotly
+streamlit
+sqlalchemy
+mysql-connector-python
