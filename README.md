@@ -71,23 +71,31 @@ Downloaded JSON files for structured processing.
 
 **Snapshort:**
 
+Project Introduction:
+
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/3d5a7750-b53b-4052-8e27-8349367a3da0" />
+
+
 Home - Transactions:
 
-<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/2516ad65-cb34-4b76-9970-e3bdc92e54bf" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/c1de7f57-986b-44cc-826a-f79159be7d75" />
 
-<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/7f9f5177-d4a0-47ac-9fcc-64cf4ad5be33" />
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/458dc654-3143-4d7d-b534-fdd13371e61d" />
+
 
 Home - Users:
 
-<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/0f165fb8-352f-4086-8ce2-fa8d038528b8" />
+<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/f025af24-b879-40eb-9d88-7257e28b757e" />
 
-<img width="1918" height="1007" alt="image" src="https://github.com/user-attachments/assets/220a98ce-9dc7-4176-aaec-fa8261d07c00" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/5bf0e9e2-5dd7-4403-bdae-f3cca9198128" />
+
 
 Analysis:
 
-<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/f8c34bf1-4dd7-4804-8742-cc2d40be30c2" />
+<img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/829cc2b3-090b-4b04-8028-961055c8a6bd" />
 
-<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/f014dca9-8cfc-4db1-8a16-a164c2b7a21b" />
+<img width="1918" height="852" alt="image" src="https://github.com/user-attachments/assets/ac820858-2c8e-4311-827c-f3c38bda5e43" />
+
 
 
 
