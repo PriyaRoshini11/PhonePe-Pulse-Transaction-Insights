@@ -748,4 +748,5 @@ elif page=="Analysis":
 else:
     st.subheader("Developed by: Priya Roshini S")
 
-    st.subheader("Skills: Python, SQL, Data Analysis,Streanmlit, Pandas")
+    st.subheader("Skills: Python, SQL, Data Analysis,Streamlit, Pandas")
+
