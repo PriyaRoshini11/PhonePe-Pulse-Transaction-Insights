@@ -283,6 +283,7 @@ elif page=="Home":
                 LIMIT 10
             """
             top_districts = pd.read_sql(query_top_districts, engine)
+            top_districts["District"] = top_districts["District"].str.title()
             top_districts["Registered_User"] = top_districts["Registered_User"].apply(lambda x: f"{x/1e7:.2f} Cr" if x >= 1e7 else f"{x/1e5:.2f} L")
             top_districts.index = range(1, len(top_districts) + 1)
             st.table(top_districts)
@@ -749,5 +750,6 @@ else:
     st.subheader("Developed by: Priya Roshini S")
 
     st.subheader("Skills: Python, SQL, Data Analysis,Streamlit, Pandas")
+
 
 
