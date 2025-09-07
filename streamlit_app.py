@@ -726,7 +726,7 @@ elif page=="Analysis":
         st.plotly_chart(fig4, use_container_width=True)
 
         query_55 = """
-            SELECT CONCAT(Year, '-Q', Quarter) AS Year_Quarter,
+            SELECT Year || '-Q' || Quarter AS Year_Quarter,
                 SUM(Registered_User) AS Total_Users,
                 SUM(App_Opens) AS Total_AppOpens
             FROM map_user
@@ -749,4 +749,5 @@ else:
     st.subheader("Developed by: Priya Roshini S")
 
     st.subheader("Skills: Python, SQL, Data Analysis,Streamlit, Pandas")
+
 
