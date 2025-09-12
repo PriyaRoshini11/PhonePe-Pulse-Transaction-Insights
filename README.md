@@ -80,7 +80,7 @@ Home - Transactions:
 
 <img width="1918" height="1015" alt="image" src="https://github.com/user-attachments/assets/c1de7f57-986b-44cc-826a-f79159be7d75" />
 
-<img width="1918" height="1021" alt="image" src="https://github.com/user-attachments/assets/458dc654-3143-4d7d-b534-fdd13371e61d" />
+<img width="1912" height="1025" alt="image" src="https://github.com/user-attachments/assets/2b88ae0b-3cd8-4dff-b039-0524d6d8b3d6" />
 
 
 Home - Users:
