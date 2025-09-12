@@ -140,7 +140,7 @@ elif page=="Home":
         with tab1:
             if selected_state == "All India":
                 query_top_states = f"""
-                    SELECT State, ROUND(SUM(Transaction_count)/10000000, 2) AS Transaction_count_Cr
+                    SELECT State, SUM(Transaction_count)/1e7 AS Transaction_count_Cr
                     FROM aggregate_transaction
                     WHERE Year = '{year}' AND Quarter = {quarter}
                     GROUP BY State
@@ -149,7 +149,7 @@ elif page=="Home":
                 """
             else:
                 query_top_states = f"""
-                    SELECT State, ROUND(SUM(Transaction_count)/10000000, 2) AS Transaction_count_Cr
+                    SELECT State, SUM(Transaction_count)/1e7 AS Transaction_count_Cr
                     FROM aggregate_transaction
                     WHERE Year = '{year}' AND Quarter = {quarter}
                     AND State = '{selected_state}'
@@ -750,6 +750,7 @@ else:
     st.subheader("Developed by: Priya Roshini S")
 
     st.subheader("Skills: Python, SQL, Data Analysis,Streamlit, Pandas")
+
 
 
 
